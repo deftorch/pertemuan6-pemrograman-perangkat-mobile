@@ -40,10 +40,10 @@ Berikut adalah rincian fungsionalitas dan tugas yang telah diimplementasikan dal
 > *(Sisipkan gambar atau tangkapan layar untuk setiap tampilan berikut di bawah teks)*
 
 **1. Tampilan Utama (Daftar 10 Buku)**
-`[ MASUKKAN_SCREENSHOT_LAYAR_UTAMA_DISINI ]`
+![Main Screen](images/main_screen.png)
 
 **2. Halaman Detail Buku**
-`[ MASUKKAN_SCREENSHOT_LAYAR_DETAIL_BUKU_DISINI ]`
+![Book Detail Screen](images/detail_screen.png)
 
 **3. Tampilan Saat Fitur Pembaca Berjalan (PDF Viewer)**
-`[ MASUKKAN_SCREENSHOT_LAYAR_KONTEN_PDF_DISINI ]`
+![PDF Viewer Screen](images/pdf_viewer_screen.png)
